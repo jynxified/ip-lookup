@@ -11,7 +11,7 @@
 # Disclaimer:
 # This script is provided "as is" without any warranty of any kind, either expressed or implied.
 # Use it entirely at your own risk. The author (that's me) shall not be liable for any damages,
-# data loss, system failures, or serious trouble you, your relatives, their neighbours or beloved
+# data loss, system failures, or serious trouble you, your relatives, their neighbors or beloved
 # pets might get into caused by the use or misuse of this script.
 #
 # Licensed under "CC BY-NC-ND 4.0" (https://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -25,6 +25,11 @@ YELLOW="\e[33m"
 RED="\e[31m"
 GREEN="\e[32m"
 NC="\e[0m"
+
+# Icons
+ICON_MAIL="\U0001F4E7"
+ICON_GITHUB="\u2699\uFE0F"
+ICON_BLOG="\U0001F310"
 
 # ipinfo details
 LOOKUP_URL="ipinfo.io"
@@ -58,9 +63,11 @@ function showHelp {
 
     echo
     echo -e "----------------------------------------------------------------------------------"
-    echo -e "                     ${BOLD}IP Information & Geolocation Lookup${NC}"
+    echo -e "                        ${BOLD}IP Information & Geolocation Lookup${NC}"
     echo -e "----------------------------------------------------------------------------------"
-    echo -e "    Version 1.0.0 | ${YELLOW}@${BLUE}Jynx${NC} | jynxified@proton.me | ${BLUE}https://github.com/jynxified${NC}"
+    echo -e "                                  ${BOLD}Version 1.0.0${NC}"
+    echo -e "----------------------------------------------------------------------------------"
+    echo -e "    ${ICON_MAIL}jynxified@proton.me | ${ICON_GITHUB} ${BLUE}github.com/jynxified${NC} | ${ICON_BLOG}${BLUE}jynxified.wordpress.com${NC}"
     echo -e "----------------------------------------------------------------------------------"
     echo
     echo -e "Usage: ip-lookup ${MAGENTA}OPTIONS${NC} [${YELLOW}IP${NC} ...]"

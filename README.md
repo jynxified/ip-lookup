@@ -292,7 +292,7 @@ If you want things done differently, you'll need to use the options outlined abo
 
 ## ## Disclaimer
 
-**ip-lookup** is provided "as is" without any warranty of any kind, either expressed or implied. Use it entirely at your own risk. The author (that's me) shall not be liable for any damages, data loss, system failures, or serious trouble you, your relatives, their neighbours or beloved pets might get into caused by the use or misuse of it.
+**ip-lookup** is provided "as is" without any warranty of any kind, either expressed or implied. Use it entirely at your own risk. The author (that's me) shall not be liable for any damages, data loss, system failures, or serious trouble you, your relatives, their neighbors or beloved pets might get into caused by the use or misuse of it.
 
 And no, I have no affiliation—business, personal, gambling-debt-related, or involving embarrassing photos—with ipinfo.io. Even though they know everything about me. I mean, EVERYTHING! Who I am. Where I live. And they can read my thoughts, I can feel it! But not for much longer, you bastards, I wasn't born yesterday, I know what's up, you've manipulated me long enough!!! I'm gonna take you all... HEY, what do you want from me? Why should I come with you? Why should I put on this weird jacket??? And don't you dare tell me when to stop typing, I'll type as long as I w...
 
